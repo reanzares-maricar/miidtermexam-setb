@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(  #1a0024, #0eb4d1, #0f03ad);
+    background-size: 100%;
+    box-shadow: 5px 5px 4px #13036d,
+    -5px -5px 4px  #150472;
+    font-family:cursive;
+    font-size: 1rem;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+    padding-top: 40%;
+    border-radius: 10%;
+}
+.h2:hover{
+    color:rgb(252, 247, 237);
+}
+.h2{
+    color:rgb(14, 223, 212);
+    font-size: 2.7rem;
+    letter-spacing: 0.5rem;
+    left: 27%;
+    position: absolute;
+    font-family: Sacramento;
+    text-shadow:2px 2px 4px #0a040a,
+    -2px -2px 4px  #0a040a;
+    top: 10rem;  
+}
+.form{
+    color:white;
+    font-family: cursive;
+    font-size: 1.5rem;
+    left: 30%;
+    position: absolute;
+    top: 40%;
+}
+.student{
+    box-shadow: 2px 2px 4px #121313, 
+    -2px -2px 4px #0a040a;
+    left: 37rem;
+    position: absolute;
+    top: 17rem;
+}
+.h3{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 25.5rem;
+    position: absolute;
+    top: 18rem;
+}
+.subject{
+    text-shadow:2px 2px 4px hsla(0, 0%, 4%, 0.98),
+    -2px -2px 4px #0a040a;
+    color:rgb(14, 223, 212);
+    font-family: cursive;
+    font-size: 1.5rem;
+    left: 30%; 
+    position: absolute; 
+    top: 20rem;
+}
+.grade{
+    text-shadow:2px 2px 4px hsla(0, 0%, 4%, 0.98),
+    -2px -2px 4px #0a040a;
+    color:rgb(14, 223, 212);
+    font-family: cursive;
+    font-size: 1.5rem;
+    left: 50%;
+    position: absolute; 
+    top: 20rem;
+}
+.rmarks{
+    text-shadow:2px 2px 4px hsla(0, 0%, 4%, 0.98),
+    -2px -2px 4px #0a040a;
+    color:rgb(14, 223, 212);
+    font-family: cursive;
+    font-size: 1.5rem;
+    left: 65%;
+    position: absolute; 
+    top: 20rem;
+}
+.mathematics{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 30%; 
+    position: absolute; 
+    top: 22.5rem;
+}
+#inputmath{
+    box-shadow: 2px 2px 4px #121313, 
+    -2px -2px 4px #0a040a;
+    left: 38.5rem; 
+    position: absolute; 
+    top: 30.5rem;
+}
+#sub1{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 55rem; 
+    position: absolute; 
+    top: 22.3rem;
+}
+.scie{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 30%; 
+    position: absolute; 
+    top: 24.5rem;
+}
+#inputscience{
+    box-shadow: 2px 2px 4px #121313, 
+    -2px -2px 4px #0a040a;
+    left: 38.5rem; 
+    position: absolute; 
+    top: 22rem;
+}
+#sub2{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 55rem; 
+    position: absolute; 
+    top: 24.3rem;
+}
+.eng{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 30%; 
+    position: absolute; 
+    top: 26.5rem;
+}
+#inputenglish{
+    box-shadow: 2px 2px 4px #121313, 
+    -2px -2px 4px #0a040a;
+    left: 38.5rem; 
+    position: absolute; 
+    top: 24.1rem;
+}
+#sub3{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 55rem; 
+    position: absolute; 
+    top: 26.3rem;
+}
+.pilipino{
+    color:white;
+    font-family:cursive;
+    font-size: 1.2rem;
+    left: 30%; 
+    position: absolute; 
+    top: 28.5rem;
+}
+#inputfilipino{
+    box-shadow: 2px 2px 4px #121313, 
+    -2px -2px 4px #0a040a;
+    left: 38.5rem; 
+    position: absolute; 
+    top: 26.3rem;
+}
+#sub4{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 55rem; 
+    position: absolute; 
+    top: 28.4rem;
+}
+.pee{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 30%; 
+    position: absolute; 
+    top: 30.8rem;
+}
+#inputpEd{
+    box-shadow: 2px 2px 4px #121313, 
+    -2px -2px 4px #0a040a;
+    left: 38.5rem; 
+    position: absolute; 
+    top: 28.4rem;
+}
+#sub5{
+    color:white;
+    font-family: cursive;
+    font-size: 1.2rem;
+    left: 55rem; 
+    position: absolute; 
+    top: 30.5rem;
+}
+#rank{
+    color:rgb(14, 223, 212);
+    font-family: cursive;
+    text-shadow:2px 2px 4px hsla(0, 0%, 4%, 0.98),
+    -2px -2px 4px #0a040a;
+    left: 45%; 
+    position: absolute; 
+    top: 35rem;
+}
+#frank{
+    color:rgba(251, 254, 255, 0.753);
+    font-family: cursive;
+    text-shadow:2px 2px 4px hsla(0, 5%, 4%, 0.98),
+    -2px -2px 4px #0c0a0c;
+    left: 53.5rem; 
+    position: absolute; 
+    top: 35rem;
+}
+.btn {
+    background-color:rgba(17, 56, 228, 0.753);
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #151818, 
+    -2px -2px 4px #0a040a;
+    color: rgba(225, 233, 235, 0.753);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    height: 3.5rem;
+    justify-content: center;
+    left: 30%;
+    margin: 1px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 85%;
+    width: 8rem;
+    transition: 1s;
+    text-decoration: none;
+}
+.btn:hover{
+    color: #d0d2e4;
+    background:  #2c07b1;
+    box-shadow: 0 0 10px #031242, 0 0 40px #0c19da, 0 0 80px #0abeeb;
+    transition-delay: 0s;
+}
